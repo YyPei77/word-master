@@ -1,0 +1,17 @@
+{
+  "score": 0,
+  "time": 10,
+  "matches": [],
+  "remainingMatches": [],
+  "matchersScore": [],
+  "foundWords": [],
+  "timer": null,
+  "wordsToCheck": [],
+  "randomWord": "",
+  "HintWord": "",
+  "HintScore": "",
+  "isStart": false,
+  "isResultDisplayed": false,
+  "isHintDisplayed": false,
+  "inputWord": ""
+}
