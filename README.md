@@ -1,4 +1,5 @@
-# word-master
+
+##Word Master
 
 
 This is an English word game with interactive features. 
@@ -9,8 +10,9 @@ For example, typing the random letter badaabbdd will return bad + bad + bad scor
 
 
 
-Technology used:
-React.js
-Backtracking algorithm
-CSS/HTML5
-JAVAScripts
+* Technology used:
+    * React.js
+    * Backtracking algorithm
+    * CSS/HTML5
+    * JAVAScripts
+
